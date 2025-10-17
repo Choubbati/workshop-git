@@ -148,6 +148,7 @@
             color: var(--text-secondary);
             margin-bottom: 2.5rem;
             animation: fadeInUp 1s ease-out 0.2s both;
+            color: #00ff88;
         }
 
         .cta-button {
