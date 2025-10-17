@@ -30,7 +30,7 @@
             position: fixed;
             top: 0;
             width: 100%;
-            background: rgba(10, 14, 39, 0.95);
+            background: rgba(255, 7, 7, 0.95);
             backdrop-filter: blur(10px);
             z-index: 1000;
             border-bottom: 1px solid rgba(0, 255, 136, 0.1);
@@ -148,6 +148,7 @@
             color: var(--text-secondary);
             margin-bottom: 2.5rem;
             animation: fadeInUp 1s ease-out 0.2s both;
+            color: #00ff88;
         }
 
         .cta-button {
